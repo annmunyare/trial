@@ -4,13 +4,29 @@ h1{
 .author{
   font-style: italic;
   width: 50%;
-  color: pink;
+  color: green;
 
 }
 .important{
-  font-size: 12%;
+  font-size: 80%;
 
 }
 .unimportant{
   align:centre;
+}
+img{
+  float: right;;
+}
+ul.sidebar{
+  float:left;
+}width:900px;
+h2{
+  border: 2px solid green;
+
+}
+h3{
+  border: 2px solid blue;
+  padding:4px;
+  margin :12px;
+  background-color: orange;
 }
