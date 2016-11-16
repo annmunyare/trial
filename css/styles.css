@@ -1,3 +1,7 @@
 h1{
   color: blue;
 }
+p.author{
+  font-style: italic;
+  width: 50%;
+}
