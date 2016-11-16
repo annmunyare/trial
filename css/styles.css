@@ -1,7 +1,9 @@
 h1{
   color: blue;
 }
-p.author{
+.author{
   font-style: italic;
   width: 50%;
+  color: pink;
+
 }
